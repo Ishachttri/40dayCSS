@@ -1,7 +1,6 @@
 * {
   padding: 4px;
 }
-
 nav {
   background-color: rgb(132, 96, 218);
   border-radius: 5px;
@@ -32,13 +31,11 @@ nav {
   text-decoration: none;
   padding: 34px 23px;
 }
-
 .right li a:hover,
 .right li a.active {
   text-decoration: underline;
   color: gray;
 }
-
 main {
   display: inline-block;
   margin-top: 85px;
