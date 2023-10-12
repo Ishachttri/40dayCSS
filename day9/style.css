@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-.whole-container {
+.whole {
     border: 3px solid black;
     margin: 10px;
     padding: 20px;
@@ -13,17 +13,17 @@
     align-items: center;
 }
 
-.left-container {
+.left{
     color: blue;
     font-family: sans-serif;
 }
 
-.left-container h4 {
+.left h4 {
     color: black;
     margin: 5px;
 }
 
-.right-container {
+.right {
     height: 40vh;
     text-align: center;
     padding: 76px;
@@ -31,7 +31,7 @@
     display: inline-block;
 }
 
-.input-detail input {
+.inputdetail input {
     display: block;
     padding: 15px;
     margin-top: 10px;
