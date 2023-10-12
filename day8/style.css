@@ -1,54 +1,62 @@
 * {
-  padding: 0px;
-  margin: 2px;
+    margin: 0;
+    
+
 }
+
 .whole {
     display: flex;
-    justify-content:center;
-
+    justify-content: space-around;
+    align-items: flex-end;
     
 }
+
 .main {
-  border: 2px solid black;
-  border-radius: 9px;
-  padding: 15px;
-  display: inline-block;
-  margin: 15px;
+    border: 2px solid black;
+    border-radius: 9px;
+    padding: 15px;
+    
+    margin: 15px;
 }
 
 .right {
-  display: inline-block;
-  color: rgba(39, 39, 241, 0.89);
-  font-family: sans-serif;
+    
+    color: rgba(39, 39, 241, 0.89);
+    font-family: sans-serif;
 }
 
 .logg {
-  text-align: center;
-  margin: 8px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  text-decoration: underline;
+    text-align: center;
+    margin: 8px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-decoration: underline;
 }
+
 .email {
-  border-radius: 5px;
+    border-radius: 5px;
 }
+
 #search {
-  padding: 10px;
-  border-radius: 3px;
+    padding: 10px;
+    border-radius: 3px;
 }
+
 .log {
-  border-radius: 5px;
-  text-align: center;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  margin: 5px;
-  cursor: pointer;
-  font-size: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 10px;
 }
+
 .Forgot {
-  text-align: center;
-  color: rgba(39, 39, 241, 0.89);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-align: center;
+    color: rgba(39, 39, 241, 0.89);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
 .newaccount {
-  text-align: center;
-  margin: 6px;
+    text-align: center;
+    margin: 6px;
 }
