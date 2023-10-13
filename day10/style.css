@@ -40,7 +40,7 @@ form {
     padding: 15px;
 }
 
-.input-detail input {
+.inputdetail input {
     display: block;
     padding: 15px;
     margin-top: 10px;
@@ -49,7 +49,7 @@ form {
     border-radius: 5px;
 }
 
-.login {
+.log{
     width: 100%;
     padding: 15px;
     margin-top: 10px;
@@ -62,7 +62,7 @@ form {
     font-size: 15px;
 }
 
-.login:hover {
+.log:hover {
     cursor: pointer;
     background-color: rgba(31, 64, 212, 0.835);
 }
