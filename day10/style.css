@@ -20,7 +20,7 @@ whole {
 }
 
 .left h1 {
-    color: rgb(28, 28, 224);
+    color: rgb(36, 36, 235);
     font-size: 100px;
 }
 
@@ -32,8 +32,7 @@ whole {
     width: 30%;
     padding: 20px;
     background-color: white;
-    /* border: solid red 2px; */
-    box-shadow: 0px 0px 30px #c9b3b390;
+    box-shadow: 0px 0px 30px #e7d9d990;
     border-radius: 10px;
 }
 
@@ -70,7 +69,7 @@ form {
 
 .forgot a,
 .forgot {
-    color: blue;
+    color: rgb(41, 41, 235);
     text-decoration: none;
     text-align: center;
     margin: 15px;
@@ -84,7 +83,7 @@ form {
 }
 
 .create {
-    background-color: rgba(11, 221, 11, 0.925);
+    background-color: rgba(24, 240, 24, 0.925);
 
     padding: 15px;
     margin: 10px;
