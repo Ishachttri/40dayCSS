@@ -213,3 +213,73 @@ p {
   font-weight: 250px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
+.demo-5 {
+  border-top: 9px solid rgb(80, 78, 78);
+  border-bottom: 9px solid rgb(80, 78, 78);
+  border-left: none;
+  border-right: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.5rem;
+  color: white;
+}
+.first-5 {
+  font-weight: bolder;
+  font-size: 1.8rem;
+  /* letter-spacing: 1px; */
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+.second-5 button {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border-radius: 4px;
+  margin: 2px;
+  height: 84px;
+  width: 1116px;
+  background-color: rgb(44, 43, 43);
+  color: white;
+  margin: 8px;
+  border: none;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.second-5 button:hover {
+  background-color: rgb(71, 73, 73);
+  cursor: pointer;
+}
+
+.first-6 p {
+  font-weight: 250px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  font-size: 20px;
+}
+.second-6 input {
+  padding: 20px;
+  /* border: none; */
+  color: white;
+  background-color: rgb(78, 77, 77);
+  border-radius: 5px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.second-6 button {
+  width: 200px;
+  background-color: red;
+  border: none;
+  padding: 16px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+
+  text-transform: capitalize;
+  font-size: larger;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.second-6 button:hover {
+  background-color: rgb(131, 6, 6);
+  cursor: pointer;
+}
