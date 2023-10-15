@@ -54,18 +54,16 @@ p {
 }
 
 .top h1 {
-  color: white;
-  /* text-transform: capitalize; */
+  color: #fff;
   font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
     sans-serif;
-
   font-weight: 900px;
   font-size: 50px;
   letter-spacing: -0.8px;
 }
 
 .top p {
-  color: antiquewhite;
+  color: #fff;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   /* font-weight: bolder; */
@@ -76,7 +74,7 @@ p {
 .down input {
   padding: 20px;
   /* border: none; */
-  color: white;
+  color: #fff;
   background-color: rgb(78, 77, 77);
   border-radius: 5px;
 }
@@ -87,7 +85,7 @@ p {
   border: none;
   padding: 15px;
   border-radius: 4px;
-  color: white;
+  color: #fff;
   font-weight: bolder;
   font-family: Arial, Helvetica, sans-serif;
   text-transform: capitalize;
@@ -108,7 +106,7 @@ p {
   justify-content: space-around;
   align-items: center;
   padding: 6.5rem;
-  color: white;
+  color: #fff;
 }
 
 /* .first {
@@ -146,17 +144,13 @@ p {
   justify-content: space-around;
   align-items: center;
   padding: 6.5rem;
-  color: white;
+  color: #fff;
 }
 
 .first-2 img {
   height: 415px;
   width: 552px;
 }
-
-/* .second-2 {
-  color: white;
-} */
 .second-2 h1 {
   font-weight: bolder;
   font-size: 2.8rem;
@@ -209,7 +203,7 @@ p {
   justify-content: space-around;
   align-items: center;
   padding: 7.5rem;
-  color: white;
+  color: #fff;
 }
 
 .first-4 img {
@@ -243,7 +237,7 @@ p {
   flex-direction: column;
   align-items: center;
   padding: 7.5rem;
-  color: white;
+  color: #fff;
 }
 
 .first-5 {
@@ -263,7 +257,7 @@ p {
   height: 84px;
   width: 1116px;
   background-color: rgb(44, 43, 43);
-  color: white;
+  color: #fff;
   margin: 8px;
   border: none;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
@@ -286,7 +280,7 @@ p {
 .second-6 input {
   padding: 22px;
   /* border: none; */
-  color: white;
+  color: #fff;
   background-color: rgb(78, 77, 77);
   border-radius: 5px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
@@ -298,7 +292,7 @@ p {
   border: none;
   padding: 16px;
   border-radius: 4px;
-  color: white;
+  color: #fff;
   font-weight: bolder;
   height: 58px;
 
