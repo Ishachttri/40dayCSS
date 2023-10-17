@@ -2,6 +2,8 @@ div p:first-child {
   background-color: yellow;
   color: red;
   border: 2px solid green;
+  padding: 10px;
+  display: block;
 }
 div p {
   background-color: blue;
