@@ -1,6 +1,7 @@
 div p:first-child {
   background-color: yellow;
   color: red;
+  border: 2px solid green;
 }
 div p {
   background-color: blue;
