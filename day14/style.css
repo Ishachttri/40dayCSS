@@ -50,32 +50,44 @@ nav {
   margin: 10px;
 }
 .navbar {
-  border-top: 1px solid rgb(36, 35, 35);
-  border-bottom: 1px solid rgb(37, 36, 36);
+  padding: 5px;
+  margin: 4px;
+}
+
+.navbar-left {
+  border-top: 0.5px solid rgb(165, 161, 161);
+  border-bottom: 0.5px solid rgb(170, 168, 168);
   border-left: none;
   border-right: none;
-  padding-left: 13px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
 }
-.navbar ul {
+.navbar-left ul {
   display: flex;
   list-style-type: none;
-  /* justify-content: left;
-  align-items: center; */
 }
-.navbar li {
-  margin: 20px;
-  padding: 5px;
+.navbar-left li {
+  margin: 9px;
+  padding: 10px;
 }
-.navbar li a {
+.navbar-left li a {
   text-decoration: none;
-  text-transform: capitalize;
   color: black;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
-.navbar li a:hover {
+.navbar-left li a:hover {
   color: rgb(12, 224, 12);
   cursor: pointer;
+}
+.navbar-right img {
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+.navbar-right a {
+  text-decoration: none;
 }
