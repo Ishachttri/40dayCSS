@@ -1,0 +1,81 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 16px;
+  /* border-top: 1px solid rgb(36, 35, 35);
+  border-bottom: 1px solid rgb(37, 36, 36);
+  border-left: none;
+  border-right: none; */
+}
+
+.left img {
+  width: 170px;
+}
+.center input {
+  width: 615px;
+  height: 45px;
+  border: 2px solid black;
+}
+.center ::placeholder {
+  font-size: larger;
+  padding: 10px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  border: none;
+}
+.center button {
+  height: 45px;
+  width: 100px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 15px;
+  padding: 10px;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 4px;
+  background-color: rgb(34, 214, 34);
+  border: none;
+}
+.center button:hover {
+  background-color: green;
+  cursor: pointer;
+}
+.right img {
+  width: 100px;
+  margin: 10px;
+}
+.navbar {
+  border-top: 1px solid rgb(36, 35, 35);
+  border-bottom: 1px solid rgb(37, 36, 36);
+  border-left: none;
+  border-right: none;
+  padding-left: 13px;
+}
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+  /* justify-content: left;
+  align-items: center; */
+}
+.navbar li {
+  margin: 20px;
+  padding: 5px;
+}
+.navbar li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.navbar li a:hover {
+  color: rgb(12, 224, 12);
+  cursor: pointer;
+}
