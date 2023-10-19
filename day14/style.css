@@ -20,6 +20,7 @@ nav {
   width: 615px;
   height: 45px;
   border: 2px solid black;
+  border: none;
 }
 .center ::placeholder {
   font-size: larger;
@@ -56,7 +57,7 @@ nav {
 
 .navbar-left {
   border-top: 0.5px solid rgb(165, 161, 161);
-  border-bottom: 0.5px solid rgb(170, 168, 168);
+  /* border-bottom: 0.5px solid rgb(170, 168, 168); */
   border-left: none;
   border-right: none;
   display: flex;
@@ -91,11 +92,10 @@ nav {
 .navbar-right a {
   text-decoration: none;
 }
-footer {
+main {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  border: 1px solid rgb(18, 20, 18);
   background-color: rgb(12, 14, 12);
   height: 400px;
   color: white;
@@ -108,7 +108,8 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 30px;
+  font-weight: 500;
 }
 .right-1 img {
   height: 70px;
@@ -119,4 +120,60 @@ footer {
   width: 650px;
   text-transform: capitalize;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.middle-1 p {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 30px;
+  margin-bottom: 34px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.middle-1 ul {
+  list-style-type: none;
+}
+.middle-1 li {
+  margin: 9px;
+}
+.middle-1 ul a {
+  text-decoration: none;
+  font-weight: lighter;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  color: #fff;
+}
+.left-1 p {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 30px;
+  margin-bottom: 34px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.left-1 ul {
+  list-style-type: none;
+  /* margin: 9px; */
+}
+.left-1 li {
+  margin: 9px;
+}
+.left-1 ul a {
+  text-decoration: none;
+  font-weight: lighter;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  color: #fff;
+}
+.last {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer {
+  text-align: center;
+  background-color: rgb(31, 30, 30);
+  height: 21px;
+  padding: 13px;
+  color: #fff;
+  text-transform: capitalize;
 }
