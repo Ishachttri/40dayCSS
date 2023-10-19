@@ -120,26 +120,23 @@ footer {
   text-transform: capitalize;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
-.div {
+.div ul {
+  text-transform: capitalize;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.divv {
   text-transform: capitalize;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
-.divv{
-  text-transform: capitalize;
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-}
-}
+
 .middle-1 {
   display: flex;
   flex-direction: column;
   text-align: center;
 }
-.middle-1 li {
-  text-decoration: none;
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  font-weight: bold;
-  font-size: 25px;
-}
+
 .middle-1 ul {
   list-style-type: none;
 }
