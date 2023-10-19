@@ -95,19 +95,58 @@ footer {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  border: 1px solid green;
-  background-color: green;
+  border: 1px solid rgb(18, 20, 18);
+  background-color: rgb(12, 14, 12);
   height: 400px;
+  color: white;
 }
 .right-1 {
   display: flex;
   flex-direction: column;
 }
+.right-1 span {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 25px;
+}
 .right-1 img {
-  height: 30px;
-  width: 100px;
+  height: 70px;
+  width: 160px;
 }
 .right-1 p {
-  height: 70px;
-  width: 600px;
+  height: 50px;
+  width: 650px;
+  text-transform: capitalize;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.div {
+  text-transform: capitalize;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.divv{
+  text-transform: capitalize;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+}
+.middle-1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.middle-1 li {
+  text-decoration: none;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+.middle-1 ul {
+  list-style-type: none;
+}
+.middle-1 ul a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
 }
