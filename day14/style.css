@@ -178,8 +178,8 @@ footer {
   text-transform: capitalize;
 }
 .aside-bar {
-  /* padding: 40px;
-  margin: 30px; */
+  padding: 40px;
+  margin: 30px;
   display: flex;
 }
 .post h4 {
