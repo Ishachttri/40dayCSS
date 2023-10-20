@@ -178,8 +178,8 @@ footer {
   text-transform: capitalize;
 }
 .aside-bar {
-  padding: 40px;
-  margin: 30px;
+  /* padding: 40px;
+  margin: 30px; */
   display: flex;
 }
 .post h4 {
@@ -187,7 +187,8 @@ footer {
   text-transform: capitalize;
   font-weight: 545;
   font-size: 30px;
-  margin: 8px;
+  /* padding: 20px; */
+  /* margin: 8px; */
 }
 .aside img {
   height: 461px;
@@ -197,6 +198,7 @@ footer {
 .aside h4 {
   height: 71px;
   width: 750px;
+
   font-weight: 550;
   font-size: 27px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
@@ -204,7 +206,6 @@ footer {
   /* line-height: 45px; */
 }
 .paragraph h5 {
-  height: 700px;
   width: 730px;
   font-weight: 380;
   font-size: 15px;
@@ -274,8 +275,205 @@ footer {
   text-transform: capitalize;
   font-weight: 600;
   font-size: 28px;
+  padding: 20px;
+}
+.middlee {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .leftt img {
   height: 163px;
-  width: 280px;
+  width: 325px;
+}
+.betweenn img {
+  height: 163px;
+  width: 325px;
+}
+.rightt img {
+  height: 163px;
+  width: 325px;
+}
+.head-1 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.head-3 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+
+.middlee-1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.leftt-1 img {
+  height: 163px;
+  width: 325px;
+}
+.betweenn-1 img {
+  height: 163px;
+  width: 325px;
+}
+.rightt-1 img {
+  height: 163px;
+  width: 325px;
+}
+.headd-1 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.headd-3 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 163px;
+  width: 325px;
+}
+.postt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px;
+}
+.postt button {
+  width: 120px;
+  height: 50px;
+  background-color: rgb(30, 207, 30);
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+  margin-right: 68px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.postt h4 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 28px;
+  padding: 20px;
+}
+.postt-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px;
+}
+.postt-1 button {
+  width: 120px;
+  height: 50px;
+  background-color: rgb(30, 207, 30);
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+  margin-right: 68px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.postt-1 h4 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 28px;
+  padding: 20px;
+}
+.middlee-2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.leftt-2 img {
+  height: 163px;
+  width: 325px;
+}
+.betweenn-2 img {
+  height: 163px;
+  width: 325px;
+}
+.rightt-2 img {
+  height: 163px;
+  width: 325px;
 }
