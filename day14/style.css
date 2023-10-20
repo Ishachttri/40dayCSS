@@ -7,10 +7,6 @@ nav {
   justify-content: space-around;
   align-items: center;
   padding: 16px;
-  /* border-top: 1px solid rgb(36, 35, 35);
-  border-bottom: 1px solid rgb(37, 36, 36);
-  border-left: none;
-  border-right: none; */
 }
 
 .left img {
@@ -57,7 +53,7 @@ nav {
 
 .navbar-left {
   border-top: 0.5px solid rgb(165, 161, 161);
-  /* border-bottom: 0.5px solid rgb(170, 168, 168); */
+  border-bottom: 0.5px solid rgb(170, 168, 168);
   border-left: none;
   border-right: none;
   display: flex;
@@ -181,14 +177,14 @@ footer {
   padding: 40px;
   margin: 30px;
   display: flex;
+  justify-content: space-between;
+  /* align-items: flex-start; */
 }
 .post h4 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-weight: 545;
   font-size: 30px;
-  /* padding: 20px; */
-  /* margin: 8px; */
 }
 .aside img {
   height: 461px;
@@ -198,12 +194,10 @@ footer {
 .aside h4 {
   height: 71px;
   width: 750px;
-
   font-weight: 550;
   font-size: 27px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
-  /* line-height: 45px; */
 }
 .paragraph h5 {
   width: 730px;
@@ -212,8 +206,6 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   line-height: 28px;
-
-  /* font-weight: bold; */
 }
 .paragraph p {
   font-weight: 600;
@@ -222,7 +214,7 @@ footer {
 }
 .image-1 img {
   height: 280px;
-  width: 430px;
+  width: 515px;
   border-radius: 5px;
 }
 .image-1 h4 {
@@ -230,6 +222,7 @@ footer {
   font-size: 17px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
+  line-height: 30px;
 }
 .paragraph-2 h6 {
   font-weight: 380;
@@ -237,6 +230,7 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   line-height: 28px;
+  width: 515px;
 }
 .image-2 h4 {
   font-weight: 550;
@@ -244,6 +238,7 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   margin: 7px;
+  width: 515px;
 }
 .paragraph-3 h6 {
   font-weight: 380;
@@ -251,6 +246,7 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   line-height: 28px;
+  width: 515px;
 }
 .post {
   display: flex;
@@ -298,50 +294,54 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
   width: 325px;
+}
+.head-1 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
 }
 .head-2 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
   width: 325px;
 }
+
 .head-2 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
   width: 325px;
 }
-.head-2 h3 {
+.head-2 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
-}
-.head-2 h3 {
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
-}
-.head-2 h3 {
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
 }
 .head-3 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
   width: 325px;
+}
+.head-3 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
 }
 
 .middlee-1 {
@@ -365,50 +365,53 @@ footer {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
+  width: 325px;
+}
+.headd-1 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.headd-2 h3 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  height: 250px;
   width: 325px;
 }
 .headd-2 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
-  width: 325px;
+  height: 250px;
+  width: 350px;
 }
-.headd-2 h3 {
+.headd-2 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
-}
-.headd-2 h3 {
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
-}
-.headd-2 h3 {
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
-}
-.headd-2 h3 {
-  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
-  text-transform: capitalize;
-  font-size: 16px;
-  height: 163px;
-  width: 325px;
 }
 .headd-3 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
   font-size: 16px;
-  height: 163px;
+  height: 250px;
   width: 325px;
+}
+.headd-3 p {
+  color: rgb(43, 44, 43);
+  font-size: 15px;
+  margin: 5px;
+  font-weight: 500;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
 }
 .postt {
   display: flex;
