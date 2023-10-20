@@ -92,7 +92,7 @@ nav {
 .navbar-right a {
   text-decoration: none;
 }
-main {
+section {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -176,4 +176,106 @@ footer {
   padding: 13px;
   color: #fff;
   text-transform: capitalize;
+}
+.aside-bar {
+  padding: 40px;
+  margin: 30px;
+  display: flex;
+}
+.post h4 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-weight: 545;
+  font-size: 30px;
+  margin: 8px;
+}
+.aside img {
+  height: 461px;
+  width: 730px;
+  border-radius: 5px;
+}
+.aside h4 {
+  height: 71px;
+  width: 750px;
+  font-weight: 550;
+  font-size: 27px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  /* line-height: 45px; */
+}
+.paragraph h5 {
+  height: 700px;
+  width: 730px;
+  font-weight: 380;
+  font-size: 15px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  line-height: 28px;
+
+  /* font-weight: bold; */
+}
+.paragraph p {
+  font-weight: 600;
+  display: inline-block;
+  color: rgb(56, 54, 54);
+}
+.image-1 img {
+  height: 280px;
+  width: 430px;
+  border-radius: 5px;
+}
+.image-1 h4 {
+  font-weight: 550;
+  font-size: 17px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.paragraph-2 h6 {
+  font-weight: 380;
+  font-size: 15px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  line-height: 28px;
+}
+.image-2 h4 {
+  font-weight: 550;
+  font-size: 15px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  margin: 7px;
+}
+.paragraph-3 h6 {
+  font-weight: 380;
+  font-size: 15px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  line-height: 28px;
+}
+.post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px;
+}
+.post button {
+  width: 120px;
+  height: 50px;
+  background-color: rgb(30, 207, 30);
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+  margin-right: 68px;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+}
+.post h4 {
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 28px;
+}
+.leftt img {
+  height: 163px;
+  width: 280px;
 }
