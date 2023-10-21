@@ -276,7 +276,8 @@ footer {
 .middlee {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: start;
+  height: 390px;
 }
 .leftt img {
   height: 163px;
@@ -348,6 +349,7 @@ footer {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin-bottom: 30px;
 }
 .leftt-1 img {
   height: 163px;
@@ -361,6 +363,7 @@ footer {
   height: 163px;
   width: 325px;
 }
+
 .headd-1 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
