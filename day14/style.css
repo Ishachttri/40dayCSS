@@ -280,16 +280,19 @@ footer {
   /* margin: 20px; */
 }
 .leftt img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .betweenn img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .rightt img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .head-1 h3 {
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
@@ -352,16 +355,19 @@ footer {
   /* margin-bottom: 30px; */
 }
 .leftt-1 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .betweenn-1 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .rightt-1 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 
 .headd-1 h3 {
@@ -472,16 +478,19 @@ footer {
   align-items: center;
 }
 .leftt-2 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .betweenn-2 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .rightt-2 img {
-  height: 163px;
+  height: 210px;
   width: 325px;
+  border-radius: 4px;
 }
 .offer {
   display: flex;
