@@ -509,3 +509,9 @@ footer {
   background-color: rgb(24, 204, 24);
   border: none;
 }
+
+.leftt-1 img {
+  height: 210px;
+  width: 325px;
+  border-radius: 4px;
+}
