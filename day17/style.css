@@ -6,6 +6,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  font-family: "segoe UI";
 }
 
 .right ul {
@@ -14,6 +15,12 @@ nav {
 }
 .right ul li {
   list-style-type: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.right ul li span {
+  padding: 0 5px;
 }
 
 .material-symbols-outlined {
