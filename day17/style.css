@@ -10,6 +10,7 @@ nav {
 
 .right ul {
   display: flex;
+  gap: 35px;
 }
 .right ul li {
   list-style-type: none;
