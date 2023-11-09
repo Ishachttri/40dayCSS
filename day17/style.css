@@ -1,0 +1,16 @@
+.logo img {
+  background-color: blue;
+  width: 190px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.right ul {
+  display: flex;
+}
+.right ul li {
+  list-style-type: none;
+}
