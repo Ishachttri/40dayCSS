@@ -15,3 +15,7 @@ nav {
 .right ul li {
   list-style-type: none;
 }
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 5, "opsz" 24;
+}
