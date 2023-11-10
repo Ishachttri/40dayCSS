@@ -3,5 +3,7 @@
   display: inline;
 }
 .box {
-  border: 2px solid blue;
+  border: 2px solid rgb(60, 255, 0);
+  padding: 34px;
+  box-shadow: 5px 5px 5px blanchedalmond;
 }
