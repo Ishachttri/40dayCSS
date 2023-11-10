@@ -7,4 +7,6 @@
   padding: 34px;
   box-shadow: 5px 5px rgb(59, 58, 55);
   text-shadow: 5px 5px 5px black;
+  outline-offset: 20px;
+  border-radius: 5px;
 }
