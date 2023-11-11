@@ -2,21 +2,18 @@
   background-color: antiquewhite;
   width: 50vw;
   height: 40vh;
-  /* transition-property: transofrm;
-  transition-duration: 3s;
-  transition-timing-function: ease-in-out;
-  transition-delay: 1s; */
 }
 .box {
   background-color: aquamarine;
   width: 5vw;
   height: 4vh;
-  transition-property: all;
+  /* transition-property: background-color, transform;
   transition-duration: 3s;
   transition-timing-function: ease-in-out;
-  transition-delay: 1s;
+  transition-delay: 1s; */
+  transition: all 3s -bezier(0.09, 0.5, 0, 0.09) 1s;
 }
 .translate {
-  transform: translateX(10%) translateY(10%);
+  transform: translateX(10vw) translateY(10vh) scale(2);
   background-color: blue;
 }
