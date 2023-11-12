@@ -7,6 +7,10 @@
   width: 34px;
   height: 45px;
   background-color: aqua;
+  animation-name: harrykaanimation;
+  animation-duration: 3s;
+
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
 }
 @keyframes harrykaanimation {
   from {
