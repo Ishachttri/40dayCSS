@@ -7,15 +7,19 @@
   width: 34px;
   height: 45px;
   background-color: aqua;
-  animation-name: harrykaanimation;
+  /* animation-name: harrykaanimation;
   animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  animation-delay: 11s;
+  animation-direction: reverse; */
 
-  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: harrykaanimation 3s ease-in 11s infinite;
 }
 @keyframes harrykaanimation {
   from {
   }
   to {
-    transform: translateX(100px);
+    transform: translateX(1000px);
   }
 }
