@@ -4,6 +4,7 @@
   border: none;
   list-style-type: none;
   text-decoration: none;
+  font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
 .navclass {
   display: flex;
@@ -22,8 +23,12 @@
   display: flex;
   gap: 80px;
 }
+.second-navclass li a {
+  color: #374151;
+}
 .btn button {
-  margin: 30px 0px 0px 70px;
   width: 60px;
   height: 20px;
+  border-radius: 4px;
+  color: #374151;
 }
