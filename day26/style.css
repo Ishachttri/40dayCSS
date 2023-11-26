@@ -8,9 +8,9 @@
 }
 .navclass {
   display: flex;
-  /* gap: 20%; */
   justify-content: space-evenly;
   align-items: center;
+  background-color: black;
 }
 .first-navclass {
   margin: 20px 0px 0px 70px;
