@@ -83,3 +83,12 @@
   width: 800px;
   padding: 80px;
 }
+.trusted-business-owner {
+  margin: 0px 400px 0px 400px;
+  text-align: center;
+}
+.template {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
