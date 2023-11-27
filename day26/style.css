@@ -75,3 +75,11 @@
   background-color: #374151;
   font-size: 15px;
 }
+.image-logo {
+  display: flex;
+  justify-content: center;
+}
+.image-logo img {
+  width: 800px;
+  padding: 80px;
+}
