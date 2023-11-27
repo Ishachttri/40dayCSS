@@ -8,8 +8,7 @@
 }
 .navclass {
   display: flex;
-  justify-content: space-evenly;
-  align-items: center;
+  gap: 30%;
 }
 .first-navclass {
   margin: 20px 0px 0px 70px;
@@ -35,6 +34,17 @@
 .free-logo {
   padding-top: 100px;
   text-align: center;
-  font-size: 35px;
-  color: #374151;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px 350px 0px 350px;
+  color: #1e203b;
+}
+.get-free-logo {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
+.input-logo {
+  text-align: center;
+  padding-top: 20px;
 }
