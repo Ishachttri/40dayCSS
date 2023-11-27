@@ -5,13 +5,16 @@
   text-decoration: none;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
+
 .navclass {
   display: flex;
   gap: 30%;
 }
+
 .first-navclass {
   margin: 20px 0px 0px 70px;
 }
+
 .second-navclass {
   display: flex;
   margin: 30px 0px 0px 20px;
@@ -21,15 +24,18 @@
   display: flex;
   gap: 80px;
 }
+
 .second-navclass li a {
   color: #374151;
 }
+
 .btn button {
   width: 60px;
   height: 20px;
   border-radius: 4px;
   color: #374151;
 }
+
 .free-logo {
   padding-top: 100px;
   text-align: center;
@@ -38,6 +44,7 @@
   margin: 0px 350px 0px 350px;
   color: #1e203b;
 }
+
 .get-free-logo {
   text-align: center;
   padding-top: 20px;
@@ -45,15 +52,21 @@
 }
 
 .input-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
   text-align: center;
   padding-top: 20px;
+  gap: 20px;
 }
+
 .input-container input {
   width: 453px;
   height: 36px;
   padding: 10px;
   border: none;
 }
+
 .make-logo button {
   width: 120px;
   height: 36px;
