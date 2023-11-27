@@ -68,8 +68,10 @@
 }
 
 .make-logo button {
-  width: 120px;
-  height: 36px;
+  width: 210px;
+  height: 56px;
   border-radius: 4px;
   border: none;
+  background-color: #374151;
+  font-size: 15px;
 }
