@@ -92,3 +92,16 @@
   padding-top: 20px;
   font-size: 20px;
 }
+.template {
+  margin: 0px 400px 0px 400px;
+}
+.text {
+  text-align: center;
+  padding-top: 40px;
+}
+.brand-logo {
+  margin: 0px 400px 0px 400px;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: bold;
+}
