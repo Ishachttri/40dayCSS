@@ -103,6 +103,7 @@ a {
 .text {
   text-align: center;
   padding: 40px 0px 20px 0px;
+  border-bottom: 9px solid rgb(80, 78, 78);
 }
 .brand-logo {
   margin: 0px 400px 0px 400px;
@@ -113,7 +114,8 @@ a {
 .two-div {
   display: flex;
   align-items: center;
-  padding: 60px 100px 0px 100px;
+  padding: 60px 100px 40px 100px;
+  border-bottom: 9px solid rgb(80, 78, 78);
 }
 .left-image img {
   width: 500px;
@@ -121,7 +123,11 @@ a {
 .right-paragraph {
   padding: 0px 0px 0px 20px;
 }
-.hrs hr {
-  border: 2px solid bold;
-  color: #2px;
+.logo-pro {
+  display: flex;
+  flex-direction: column;
+}
+.logo-pro button {
+  width: 350px;
+  height: 40px;
 }
