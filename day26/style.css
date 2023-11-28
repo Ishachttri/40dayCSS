@@ -1,9 +1,14 @@
 * {
   margin: 0px;
   padding: 0px;
-  list-style-type: none;
-  text-decoration: none;
+
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
 }
 
 .navclass {
@@ -97,11 +102,26 @@
 }
 .text {
   text-align: center;
-  padding-top: 40px;
+  padding: 40px 0px 20px 0px;
 }
 .brand-logo {
   margin: 0px 400px 0px 400px;
   text-align: center;
   padding-top: 40px;
   font-weight: bold;
+}
+.two-div {
+  display: flex;
+  align-items: center;
+  padding: 60px 100px 0px 100px;
+}
+.left-image img {
+  width: 500px;
+}
+.right-paragraph {
+  padding: 0px 0px 0px 20px;
+}
+.hrs hr {
+  border: 2px solid bold;
+  color: #2px;
 }
