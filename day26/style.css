@@ -14,6 +14,8 @@ a {
 .navclass {
   display: flex;
   gap: 30%;
+  background-color: #374151;
+  padding: 0px 0px 8px 0px;
 }
 
 .first-navclass {
@@ -24,6 +26,9 @@ a {
   display: flex;
   margin: 30px 0px 0px 20px;
 }
+.second-navclass li button {
+  border: none;
+}
 
 .second-navclass ul {
   display: flex;
@@ -31,7 +36,10 @@ a {
 }
 
 .second-navclass li a {
-  color: #374151;
+  color: #fff;
+}
+main {
+  background-color: rgb(170, 163, 163);
 }
 
 .btn button {
@@ -103,8 +111,9 @@ a {
 .text {
   text-align: center;
   padding: 40px 0px 20px 0px;
-  border-bottom: 9px solid rgb(80, 78, 78);
+  border-bottom: 3px solid rgb(80, 78, 78);
 }
+
 .brand-logo {
   margin: 0px 400px 0px 400px;
   text-align: center;
@@ -115,7 +124,6 @@ a {
   display: flex;
   align-items: center;
   padding: 60px 100px 40px 100px;
-  border-bottom: 9px solid rgb(80, 78, 78);
 }
 .left-image img {
   width: 500px;
@@ -123,11 +131,34 @@ a {
 .right-paragraph {
   padding: 0px 0px 0px 20px;
 }
+.our-tools {
+  padding: 0px 0px 20px 0px;
+}
 .logo-pro {
   display: flex;
   flex-direction: column;
 }
 .logo-pro button {
-  width: 350px;
+  width: 280px;
   height: 40px;
+  background-color: #374151;
+  border: none;
+  border-radius: 5px;
+}
+.million {
+  padding: 0px 0px 20px 0px;
+}
+.another-two-div {
+  display: flex;
+  align-items: center;
+  padding: 60px 100px 40px 100px;
+}
+.left-paragraph {
+  padding: 0px 20px 0px 0px;
+}
+.anothers-two-div {
+  display: flex;
+  align-items: center;
+  padding: 60px 100px 40px 100px;
+  border-bottom: 3px solid rgb(80, 78, 78);
 }
