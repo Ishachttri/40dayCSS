@@ -162,3 +162,11 @@ main {
   padding: 60px 100px 40px 100px;
   border-bottom: 3px solid rgb(80, 78, 78);
 }
+.ready-to-set {
+  align-items: center;
+}
+.ready {
+  text-align: center;
+  margin: 0px 450px 0px 450px;
+  padding-top: 20px;
+}
