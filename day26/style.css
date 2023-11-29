@@ -14,7 +14,7 @@ a {
 .navclass {
   display: flex;
   gap: 30%;
-  background-color: #374151;
+  background-color: #777474;
   padding: 0px 0px 8px 0px;
 }
 
@@ -169,4 +169,19 @@ main {
   text-align: center;
   margin: 0px 450px 0px 450px;
   padding-top: 20px;
+}
+.stich-the-brand {
+  margin: 90px 0px 0px 0px;
+}
+.stich {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 100px;
+  background-color: #adacac;
+}
+.stich-building {
+  width: 400px;
+}
+.stich-img img {
+  width: 600px;
 }
