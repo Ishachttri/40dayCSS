@@ -4,9 +4,11 @@
 
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
+
 li {
   list-style-type: none;
 }
+
 a {
   text-decoration: none;
 }
@@ -14,7 +16,9 @@ a {
 .navclass {
   display: flex;
   gap: 30%;
-  background-color: #777474;
+  background-color: rgb(170, 163, 163);
+  background-color: #374151;
+
   padding: 0px 0px 8px 0px;
 }
 
@@ -26,6 +30,7 @@ a {
   display: flex;
   margin: 30px 0px 0px 20px;
 }
+
 .second-navclass li button {
   border: none;
 }
@@ -38,6 +43,7 @@ a {
 .second-navclass li a {
   color: #fff;
 }
+
 main {
   background-color: rgb(170, 163, 163);
 }
@@ -88,26 +94,32 @@ main {
   background-color: #374151;
   font-size: 15px;
 }
+
 .image-logo {
   display: flex;
   justify-content: center;
 }
+
 .image-logo img {
   width: 800px;
   padding: 80px;
 }
+
 .trusted-business-owner {
   margin: 0px 400px 0px 400px;
   text-align: center;
 }
+
 .template {
   text-align: center;
   padding-top: 20px;
   font-size: 20px;
 }
+
 .template {
   margin: 0px 400px 0px 400px;
 }
+
 .text {
   text-align: center;
   padding: 40px 0px 20px 0px;
@@ -120,24 +132,30 @@ main {
   padding-top: 40px;
   font-weight: bold;
 }
+
 .two-div {
   display: flex;
   align-items: center;
   padding: 60px 100px 40px 100px;
 }
+
 .left-image img {
   width: 500px;
 }
+
 .right-paragraph {
   padding: 0px 0px 0px 20px;
 }
+
 .our-tools {
   padding: 0px 0px 20px 0px;
 }
+
 .logo-pro {
   display: flex;
   flex-direction: column;
 }
+
 .logo-pro button {
   width: 280px;
   height: 40px;
@@ -145,43 +163,53 @@ main {
   border: none;
   border-radius: 5px;
 }
+
 .million {
   padding: 0px 0px 20px 0px;
 }
+
 .another-two-div {
   display: flex;
   align-items: center;
   padding: 60px 100px 40px 100px;
 }
+
 .left-paragraph {
   padding: 0px 20px 0px 0px;
 }
+
 .anothers-two-div {
   display: flex;
   align-items: center;
   padding: 60px 100px 40px 100px;
   border-bottom: 3px solid rgb(80, 78, 78);
 }
+
 .ready-to-set {
   align-items: center;
 }
+
 .ready {
   text-align: center;
   margin: 0px 450px 0px 450px;
   padding-top: 20px;
 }
+
 .stich-the-brand {
   margin: 90px 0px 0px 0px;
 }
+
 .stich {
   display: flex;
   justify-content: space-evenly;
-  padding-top: 100px;
+  padding: 100px 0px 80px 0px;
   background-color: #adacac;
 }
+
 .stich-building {
   width: 400px;
 }
+
 .stich-building button {
   width: 300px;
   height: 46px;
@@ -193,9 +221,52 @@ main {
 .stich-img img {
   width: 600px;
 }
+
 .brand-building {
   padding: 0px 0px 20px 0px;
 }
+
 .custom {
   padding: 0px 0px 20px 0px;
+}
+
+.demo-5 {
+  border-top: 9px solid rgb(80, 78, 78);
+  border-bottom: 9px solid rgb(80, 78, 78);
+  border-left: none;
+  border-right: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.5rem;
+  color: #fff;
+}
+
+.first-5 {
+  font-weight: bolder;
+  font-size: 1.2rem;
+  padding: 0px 0px 20px 0px;
+  color: #374151;
+}
+
+.second-5 button {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border-radius: 4px;
+  margin: 2px;
+  height: 84px;
+  width: 1116px;
+  background-color: #374151;
+  color: #fff;
+  margin: 8px;
+  border: none;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.second-5 button:hover {
+  background-color: rgb(71, 73, 73);
+  cursor: pointer;
 }
