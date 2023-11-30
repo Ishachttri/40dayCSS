@@ -285,3 +285,17 @@ main {
   width: 350px;
   border-radius: 5px;
 }
+.building {
+  width: 400px;
+}
+.building p {
+  font-size: small;
+  padding: 0px 0px 20px 0px;
+}
+.building h4 {
+  padding: 0px 0px 30px 0px;
+  font-size: large;
+}
+.building p {
+  padding-top: 10px;
+}
