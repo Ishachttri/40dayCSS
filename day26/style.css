@@ -285,6 +285,7 @@ main {
   width: 350px;
   border-radius: 5px;
 }
+
 .building {
   width: 400px;
 }
@@ -296,6 +297,27 @@ main {
   padding: 0px 0px 30px 0px;
   font-size: large;
 }
-.building p {
-  padding-top: 10px;
+
+.use-linkdn {
+  width: 400px;
+}
+.use-linkdn p {
+  font-size: small;
+  padding: 0px 0px 20px 0px;
+}
+.use-linkdn h4 {
+  padding: 0px 0px 30px 0px;
+  font-size: large;
+}
+
+.professional-skill {
+  width: 400px;
+}
+.professional-skill p {
+  font-size: small;
+  padding: 0px 0px 20px 0px;
+}
+.professional-skill h4 {
+  padding: 0px 0px 30px 0px;
+  font-size: large;
 }
