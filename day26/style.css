@@ -270,3 +270,13 @@ main {
   background-color: rgb(71, 73, 73);
   cursor: pointer;
 }
+.unlock-your {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.your-brand img {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+}
