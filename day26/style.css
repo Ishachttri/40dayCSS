@@ -297,6 +297,7 @@ main {
 
 .building {
   width: 400px;
+  color: #1e203b;
 }
 
 .building p {
@@ -311,6 +312,7 @@ main {
 
 .use-linkdn {
   width: 400px;
+  color: #1e203b;
 }
 
 .use-linkdn p {
@@ -325,6 +327,7 @@ main {
 
 .professional-skill {
   width: 400px;
+  color: #1e203b;
 }
 
 .professional-skill p {
