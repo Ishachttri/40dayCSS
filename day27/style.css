@@ -69,3 +69,37 @@ li {
   border: 1.8px solid white;
   background-color: #15803d;
 }
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.sign-div {
+  padding: 40px 0px 40px 0px;
+}
+.email-div {
+  margin: 5px;
+}
+.email-div input {
+  width: 450px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+.password-div {
+  margin: 5px;
+}
+.password-div input {
+  width: 450px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+.forgot {
+  padding: 0px 0px180px;
+  color: #073763;
+}
