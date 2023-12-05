@@ -117,3 +117,25 @@ li {
   text-align: center;
   padding-top: 30px;
 }
+.another-div {
+  width: 36px;
+  height: 36px;
+  border-radius: 100px;
+  background-color: #fff;
+  display: flex;
+}
+.large-div {
+  width: 200px;
+  height: 36px;
+  background-color: #073763;
+  border-radius: 40px;
+}
+.large img {
+  width: 20px;
+}
+.large {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 7px;
+}
