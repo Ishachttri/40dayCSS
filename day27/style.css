@@ -103,3 +103,13 @@ li {
   padding: 0px 0px180px;
   color: #073763;
 }
+.sign-div button {
+  width: 450px;
+  height: 46px;
+  background-color: #073763;
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  font-weight: bold;
+  color: #fff;
+}
