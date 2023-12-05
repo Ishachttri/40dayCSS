@@ -113,3 +113,7 @@ li {
   font-weight: bold;
   color: #fff;
 }
+.sign-div p {
+  text-align: center;
+  padding-top: 30px;
+}
