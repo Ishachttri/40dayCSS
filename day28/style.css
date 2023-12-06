@@ -101,3 +101,58 @@ li {
   font-size: large;
   font-weight: 500;
 }
+.sign-div {
+  padding: 40px 0px 40px 0px;
+}
+
+.email-div {
+  margin: 5px;
+}
+
+.email-div input {
+  width: 450px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+
+.password-div {
+  margin: 5px;
+}
+
+.password-div input {
+  width: 450px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+
+.forgot {
+  padding: 0px 0px180px;
+  color: #073763;
+}
+
+.sign-div button {
+  width: 450px;
+  height: 46px;
+  background-color: #073763;
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  font-weight: bold;
+  color: #fff;
+}
+
+.sign-div p {
+  text-align: center;
+  padding-top: 30px;
+}
+.form-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
