@@ -67,3 +67,37 @@ li {
   border: 1.8px solid white;
   background-color: #15803d;
 }
+.another-div {
+  width: 36px;
+  height: 36px;
+  border-radius: 100px;
+  background-color: #fff;
+  display: flex;
+}
+
+.large-div {
+  width: 230px;
+  height: 36px;
+  background-color: #073763;
+  border-radius: 40px;
+  margin-bottom: 40px;
+}
+
+.large img {
+  width: 20px;
+}
+
+.large {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 7px 0px 6px 6px;
+}
+
+.large-p h3 {
+  width: 180px;
+  padding: 9px 0px 0px 30px;
+  color: #fff;
+  font-size: large;
+  font-weight: 500;
+}
