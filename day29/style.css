@@ -1,17 +1,25 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: sans-serif;
 }
 a {
   text-decoration: none;
+  color: black;
 }
 li {
   list-style-type: none;
+}
+.nav-div {
+  padding: 10px 0px 0px 0px;
+  background-color: aqua;
+  height: 40px;
 }
 
 .nav-div ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 60px;
+  gap: 80px;
+  font-size: larger;
 }
