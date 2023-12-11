@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+
+.nav-div ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
