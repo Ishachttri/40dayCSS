@@ -66,14 +66,12 @@ p {
   color: #fff;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   text-transform: capitalize;
-  /* font-weight: bolder; */
   font-size: 20px;
   align-items: center;
 }
 
 .down input {
   padding: 20px;
-  /* border: none; */
   color: #fff;
   background-color: rgb(78, 77, 77);
   border-radius: 5px;
@@ -109,22 +107,15 @@ p {
   color: #fff;
 }
 
-/* .first {
-  color: white;
-} */
 .first h1 {
   font-weight: bolder;
   font-size: 2.8rem;
   letter-spacing: 1px;
   font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
     sans-serif;
-  /* margin: 1rem; */
 }
-
 .first p {
   font-size: 25px;
-  /* letter-spacing: 1px;
-  margin: 1rem; */
   font-weight: 220px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   width: 500px;
@@ -154,15 +145,12 @@ p {
 .second-2 h1 {
   font-weight: bolder;
   font-size: 2.8rem;
-  /* letter-spacing: 1px; */
   font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
     sans-serif;
 }
 
 .second-2 p {
   font-size: 25px;
-  /* letter-spacing: 1px; */
-  /* margin: 1rem; */
   font-weight: 220px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
@@ -180,7 +168,6 @@ p {
 .first-3 h1 {
   font-weight: bolder;
   font-size: 2.8rem;
-  /* letter-spacing: 1px; */
   font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
     sans-serif;
 }
@@ -188,8 +175,6 @@ p {
 .first-3 p {
   font-size: 30px;
   width: 490px;
-  /* letter-spacing: 1px; */
-  /* margin: 1rem; */
   font-weight: 250px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
@@ -221,9 +206,6 @@ p {
 
 .second-4 p {
   font-size: 25px;
-  /* width: 490px; */
-  /* letter-spacing: 1px; */
-  /* margin: 1rem; */
   font-weight: 250px;
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
@@ -243,7 +225,6 @@ p {
 .first-5 {
   font-weight: bolder;
   font-size: 1.8rem;
-  /* letter-spacing: 1px; */
   font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
     sans-serif;
 }
