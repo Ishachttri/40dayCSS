@@ -23,3 +23,9 @@ li {
   gap: 80px;
   font-size: larger;
 }
+.image-container {
+  background-image: url(Dog-And-Spring-1366x768.jpg);
+  height: 90vh;
+  background-position: center;
+  background-size: cover;
+}
