@@ -16,8 +16,7 @@ a {
 .navclass {
   display: flex;
   gap: 30%;
-  background-color: rgb(170, 163, 163);
-  background-color: #374151;
+  background-color: #023e8a;
 
   padding: 0px 0px 8px 0px;
 }
@@ -45,14 +44,14 @@ a {
 }
 
 main {
-  background-color: rgb(170, 163, 163);
+  background-color: #ebebeb;
 }
 
 .btn button {
   width: 60px;
   height: 20px;
   border-radius: 4px;
-  color: #374151;
+  color: #023e8a;
 }
 
 .free-logo {
@@ -61,7 +60,7 @@ main {
   font-size: 40px;
   font-weight: bold;
   margin: 0px 350px 0px 350px;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .get-free-logo {
@@ -91,7 +90,7 @@ main {
   height: 56px;
   border-radius: 4px;
   border: none;
-  background-color: #374151;
+  background-color: #023e8a;
   font-size: 15px;
 }
 
@@ -108,7 +107,7 @@ main {
 .trusted-business-owner {
   margin: 0px 400px 0px 400px;
   text-align: center;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .template {
@@ -132,7 +131,7 @@ main {
   text-align: center;
   padding-top: 40px;
   font-weight: bold;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .two-div {
@@ -151,7 +150,7 @@ main {
 
 .our-tools {
   padding: 0px 0px 20px 0px;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .logo-pro {
@@ -162,7 +161,7 @@ main {
 .logo-pro button {
   width: 280px;
   height: 40px;
-  background-color: #374151;
+  background-color: #023e8a;
   border: none;
   border-radius: 5px;
 }
@@ -196,7 +195,7 @@ main {
   text-align: center;
   margin: 0px 450px 0px 450px;
   padding-top: 20px;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .stich-the-brand {
@@ -207,7 +206,7 @@ main {
   display: flex;
   justify-content: space-evenly;
   padding: 100px 0px 80px 0px;
-  background-color: #adacac;
+  background-color: #ebebeb;
   border-top: 3px solid rgb(80, 78, 78);
 }
 
@@ -220,7 +219,7 @@ main {
   height: 46px;
   border-radius: 5px;
   border: none;
-  background-color: #374151;
+  background-color: #023e8a;
 }
 
 .stich-img img {
@@ -229,7 +228,7 @@ main {
 
 .brand-building {
   padding: 0px 0px 20px 0px;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .custom {
@@ -251,7 +250,7 @@ main {
   font-weight: bolder;
   font-size: 1.2rem;
   padding: 0px 0px 20px 0px;
-  color: #374151;
+  color: #023e8a;
 }
 
 .second-5 button {
@@ -262,7 +261,7 @@ main {
   margin: 2px;
   height: 84px;
   width: 1116px;
-  background-color: #374151;
+  background-color: #023e8a;
   color: #fff;
   margin: 8px;
   border: none;
@@ -272,7 +271,7 @@ main {
 }
 
 .second-5 button:hover {
-  background-color: rgb(71, 73, 73);
+  background-color: #ebebeb;
   cursor: pointer;
 }
 
@@ -282,7 +281,7 @@ main {
   padding: 40px 0px 40px 0px;
   margin: 0px 450px 0px 450px;
   font-weight: bold;
-  color: #1e203b;
+  color: #023e8a;
 }
 
 .your-brand {
@@ -298,7 +297,6 @@ main {
 
 .building {
   width: 400px;
-  color: #1e203b;
 }
 
 .building p {
@@ -313,7 +311,6 @@ main {
 
 .use-linkdn {
   width: 400px;
-  color: #1e203b;
 }
 
 .use-linkdn p {
@@ -328,7 +325,6 @@ main {
 
 .professional-skill {
   width: 400px;
-  color: #1e203b;
 }
 
 .professional-skill p {
@@ -342,7 +338,7 @@ main {
 }
 
 .foot {
-  background-color: #b1a9a9;
+  background-color: #ebebeb;
   border-top: 3px solid rgb(80, 78, 78);
 }
 
@@ -385,8 +381,8 @@ main {
   display: flex;
   justify-content: space-between;
   padding: 20px 20px 0px 20px;
-  background-color: #adacac;
-  color: #374151;
+  background-color: #ebebeb;
+  color: #023e8a;
 }
 
 .faq {
