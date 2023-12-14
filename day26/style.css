@@ -37,6 +37,8 @@ a {
 .second-navclass ul {
   display: flex;
   gap: 80px;
+  font-weight: bold;
+  font-size: large;
 }
 
 .second-navclass li a {
@@ -48,8 +50,8 @@ main {
 }
 
 .btn button {
-  width: 60px;
-  height: 20px;
+  width: 70px;
+  height: 30px;
   border-radius: 4px;
   color: #023e8a;
 }
