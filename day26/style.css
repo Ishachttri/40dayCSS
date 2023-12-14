@@ -54,6 +54,8 @@ main {
   height: 30px;
   border-radius: 4px;
   color: #023e8a;
+  font-size: large;
+  font-weight: bold;
 }
 
 .free-logo {
