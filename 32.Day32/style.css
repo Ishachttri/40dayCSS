@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+li {
+  list-style-type: none;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-first ul {
+  display: flex;
+  gap: 80px;
+}
