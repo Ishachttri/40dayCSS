@@ -10,8 +10,22 @@ a {
   color: black;
   text-decoration: none;
 }
-
+.nav-first {
+  padding: 40px 0px 0px 80px;
+}
 .nav-first ul {
   display: flex;
   gap: 80px;
+}
+.nav-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-second {
+  padding: 35px 0px 0px 0px;
+}
+.nav-second button {
+  width: 80px;
+  height: 32px;
 }
