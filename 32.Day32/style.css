@@ -23,9 +23,10 @@ a {
   align-items: center;
 }
 .nav-second {
-  padding: 35px 0px 0px 0px;
+  margin: 35px 0px 0px 0px;
 }
 .nav-second button {
   width: 80px;
   height: 32px;
+  border-radius: 7px;
 }
