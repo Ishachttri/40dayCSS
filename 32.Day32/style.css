@@ -53,6 +53,9 @@ a {
   border-radius: 5px;
   font-size: medium;
 }
+.click button:hover {
+  background-color: rgb(179, 188, 197);
+}
 .laptop img {
   height: 300px;
   border-radius: 20px;
