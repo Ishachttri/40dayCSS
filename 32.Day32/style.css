@@ -37,7 +37,7 @@ a {
   font-weight: bold;
 }
 .brain {
-  margin: 60px 80px;
+  margin: 40px 0px 0px 40px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -48,10 +48,11 @@ a {
   font-weight: bold;
 }
 .click button {
-  height: 30px;
-  width: 90px;
+  height: 40px;
+  width: 180px;
   border-radius: 5px;
-  font-size: medium;
+  font-size: large;
+  font-weight: bold;
 }
 .click button:hover {
   background-color: rgb(179, 188, 197);
