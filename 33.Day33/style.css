@@ -6,7 +6,6 @@
   width: 30%;
   height: 200px;
   display: flex;
-  gap: 5px;
 }
 .gallery img {
   width: 10%;
@@ -14,6 +13,8 @@
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid wheat;
+  transition: all ease 0.3s;
+  cursor: pointer;
 }
 .gallery img:hover {
   width: 100%;
