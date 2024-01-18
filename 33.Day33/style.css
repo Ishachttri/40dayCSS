@@ -1,6 +1,6 @@
 * {
-  padding: 0px;
-  margin: 0px;
+  padding: 10px;
+  margin: 10px;
 }
 .gallery {
   width: 30%;
@@ -14,4 +14,7 @@
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid wheat;
+}
+.gallery img:hover {
+  width: 100%;
 }
