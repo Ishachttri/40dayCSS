@@ -2,3 +2,16 @@
   padding: 0px;
   margin: 0px;
 }
+.gallery {
+  width: 30%;
+  height: 200px;
+  display: flex;
+  gap: 5px;
+}
+.gallery img {
+  width: 10%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid wheat;
+}
