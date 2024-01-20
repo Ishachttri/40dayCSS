@@ -2,3 +2,26 @@
   margin: 0px;
   padding: 0px;
 }
+body {
+  background-color: black;
+}
+section {
+  height: 100vh;
+}
+video {
+  object-fit: cover;
+  margin-left: 13rem;
+}
+h1 {
+  position: absolute;
+  top: 34%;
+  left: 22%;
+  color: white;
+  font-size: 5rem;
+  letter-spacing: 0.1rem;
+}
+h1 span {
+  opacity: 0;
+  display: inline-block;
+  animation: anime is linear forwards;
+}
