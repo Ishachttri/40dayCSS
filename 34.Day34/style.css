@@ -11,6 +11,7 @@ section {
 video {
   object-fit: cover;
   margin-left: 13rem;
+  width: 800px;
 }
 h1 {
   position: absolute;
@@ -24,4 +25,14 @@ h1 span {
   opacity: 0;
   display: inline-block;
   animation: anime is linear forwards;
+}
+@keyframes anime {
+  0% {
+    opacity: 0;
+    filter: blur(10px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
 }
