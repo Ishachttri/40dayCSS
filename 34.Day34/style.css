@@ -2,30 +2,36 @@
   margin: 0px;
   padding: 0px;
 }
+
 body {
   background-color: black;
 }
+
 section {
   height: 100vh;
 }
+
 video {
   object-fit: cover;
-  margin-left: 13rem;
+  margin-left: 10rem;
   width: 800px;
 }
-h1 {
+
+h2 {
   position: absolute;
-  top: 34%;
+  top: 24%;
   left: 22%;
   color: white;
   font-size: 5rem;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.25px;
 }
-h1 span {
+
+h2 span {
   opacity: 0;
   display: inline-block;
-  animation: anime is linear forwards;
+  animation: anime 1s linear forwards;
 }
+
 @keyframes anime {
   0% {
     opacity: 0;
@@ -35,4 +41,39 @@ h1 span {
     opacity: 1;
     filter: blur(0);
   }
+}
+
+h2 span:nth-child(1) {
+  animation-delay: 0.25s;
+}
+h2 span:nth-child(2) {
+  animation-delay: 0.5s;
+}
+h2 span:nth-child(3) {
+  animation-delay: 1s;
+}
+h2 span:nth-child(4) {
+  animation-delay: 1.25s;
+}
+h2 span:nth-child(5) {
+  animation-delay: 1.5s;
+}
+h2 span:nth-child(6) {
+  animation-delay: 1.75s;
+}
+h2 span:nth-child(7) {
+  animation-delay: 2s;
+}
+h2 span:nth-child(8) {
+  animation-delay: 2.35s;
+}
+h2 span:nth-child(9) {
+  animation-delay: 2.65s;
+}
+h2 span:nth-child(10) {
+  animation-delay: 2.75s;
+}
+
+h2 span:nth-child(11) {
+  animation-delay: 3s;
 }
