@@ -14,12 +14,12 @@ section {
 video {
   object-fit: cover;
   margin-left: 10rem;
-  width: 800px;
+  width: 1000px;
 }
 
 h2 {
   position: absolute;
-  top: 24%;
+  top: 32%;
   left: 22%;
   color: white;
   font-size: 5rem;
@@ -35,10 +35,10 @@ h2 span {
 @keyframes anime {
   0% {
     opacity: 0;
-    filter: blur(10px);
+    filter: blur(30px);
   }
   100% {
-    opacity: 1;
+    opacity: 2;
     filter: blur(0);
   }
 }
