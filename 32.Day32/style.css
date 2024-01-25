@@ -61,3 +61,14 @@ a {
   height: 300px;
   border-radius: 20px;
 }
+.between-button {
+  text-align: center;
+  padding: 80px 0px 0px 0px;
+}
+.between-button button {
+  height: 50px;
+  width: 200px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: large;
+}
