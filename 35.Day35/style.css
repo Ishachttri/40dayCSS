@@ -11,7 +11,21 @@ a {
   font-size: large;
   font-weight: bold;
 }
+.nav-first {
+  padding: 27px 0px 0px 300px;
+}
 .nav-first ul {
   display: flex;
-  gap: 80px;
+  gap: 70px;
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+}
+.join-btn {
+  padding: 21px 47px 0px 0px;
+}
+.join-btn button {
+  width: 66px;
+  height: 30px;
 }
