@@ -26,10 +26,16 @@ a {
 .join-btn {
   padding: 21px 93px 0px 0px;
 }
+.join-btn button:hover {
+  cursor: pointer;
+}
 .join-btn button {
   width: 80px;
   height: 35px;
   border-radius: 30px;
+  background-color: #ff695f;
+  border: 1px solid white;
+  color: white;
 }
 .nav-img {
   padding: 21px 47px 0px 110px;
