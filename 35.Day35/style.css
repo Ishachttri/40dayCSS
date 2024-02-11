@@ -12,20 +12,27 @@ a {
   font-weight: bold;
 }
 .nav-first {
-  padding: 27px 0px 0px 300px;
+  padding: 27px 0px 0px 0px;
 }
 .nav-first ul {
   display: flex;
-  gap: 70px;
+  gap: 53px;
 }
 .nav-bar {
   display: flex;
   justify-content: space-around;
 }
 .join-btn {
-  padding: 21px 47px 0px 0px;
+  padding: 21px 93px 0px 0px;
 }
 .join-btn button {
-  width: 66px;
+  width: 80px;
   height: 30px;
+  border-radius: 15px;
+}
+.nav-img {
+  padding: 21px 47px 0px 110px;
+}
+.nav-img img {
+  height: 40px;
 }
