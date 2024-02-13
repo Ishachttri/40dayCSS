@@ -43,5 +43,7 @@ a {
 .nav-img img {
   height: 40px;
 }
-.img-main p {
+.img-main {
+  display: flex;
+  justify-content: space-between;
 }
