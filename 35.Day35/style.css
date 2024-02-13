@@ -47,3 +47,6 @@ a {
   display: flex;
   justify-content: space-between;
 }
+.right-img img {
+  height: 488px;
+}
