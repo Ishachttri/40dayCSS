@@ -43,10 +43,22 @@ a {
 .nav-img img {
   height: 40px;
 }
-.img-main {
+.img-fit {
   display: flex;
   justify-content: space-between;
 }
 .right-img img {
   height: 488px;
+}
+.img-main p {
+  position: absolute;
+  top: 25%;
+  color: black;
+  padding: 130px;
+  width: 535px;
+  font-weight: bolder;
+  font-size: 45px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
 }
